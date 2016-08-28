@@ -1,4 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+vendor
 vendor/bundle/gems/ffi-1.9.14/ext/ffi_c/libffi-x86_64-darwin13.0/
